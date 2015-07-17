@@ -1,0 +1,29 @@
+{
+  "name": "cronux",
+  "version": "0.0.1",
+  "description": "History and Hash Router for React and Flux.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "history",
+    "hash",
+    "location",
+    "browser",
+    "state",
+    "react",
+    "flux",
+    "router"
+  ],
+  "author": "synchronous",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edge/cronux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edge/cronux/issues"
+  },
+  "homepage": "https://github.com/edge/cronux#readme"
+}
