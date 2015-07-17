@@ -1,6 +1,6 @@
 {
   "name": "cronux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "History and Hash Router for React and Flux.",
   "main": "index.js",
   "scripts": {
